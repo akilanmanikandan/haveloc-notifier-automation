@@ -1,0 +1,1 @@
+# haveloc-notifier-automation
